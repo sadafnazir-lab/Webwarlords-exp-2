@@ -1,4 +1,3 @@
-# Webwarlords-exp-2
 # Round 0
 
 | **Discipline** | **Food Technology** |
