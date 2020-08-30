@@ -18,9 +18,7 @@ The process involves preparing platecount agar media. The media and glasswares a
 
 | **Sr. No** | **Learning Objective** | **Cognitive Level** |
 | --- | --- | --- |
-| 1. | Students will be able to:Prepare media for the growth of bacteria on petriplates, as broth, and in the form of broth | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
- |
-| --- | --- | --- |
+| 1. | Students will be able to:Prepare media for the growth of bacteria on petriplates, as broth, and in the form of broth | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php)|
 | 2. | Students will be able to:Take samples from contaminated food | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) |
 | 3. | Students will be able to:Grow bacteria on media | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) |
 | 4. | Students will be able to:
