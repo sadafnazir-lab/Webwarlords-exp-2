@@ -5,8 +5,7 @@ Round 1
 | **Discipline** | **Food Technology** |
 | --- | --- |
 | **Lab** | **Food Microbiology** |
-| **Experiment** | **2. Determination of Standard Plate Count (SPC) in natural and/or processed foods.**
- |
+| **Experiment** | **2. Determination of Standard Plate Count (SPC) in natural and/or processed foods.** |
 
 **1.**** Focus Area : Name of the Focus area as per handout**
 
@@ -19,7 +18,7 @@ Contamination
 | 1. | Students will be able to:Prepare media for the growth of bacteria on petriplates, as broth, and in the form of broth | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php)|
 | 2. | Students will be able to:Take samples from contaminated food | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) |
 | 3. | Students will be able to:Grow bacteria on media | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) |
-| 4. | Students will be able to: Analyze the growth of microorganisms and identify specific microorganisms | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) |
+| 4. | Students will be able to: Analyze the growth of microorganisms and identify specific microorganisms | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php)|
 
 **3.Instructional Strategy**
 
