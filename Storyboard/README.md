@@ -1,4 +1,3 @@
-# Webwarlords-exp-2
 # **Round 2**
 
 Experiment 2: **Determination of Standard Plate Count (SPC) in natural and/or processed foods.**
