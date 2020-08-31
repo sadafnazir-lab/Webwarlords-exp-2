@@ -3,7 +3,7 @@
 | **Discipline** | **Food Technology** |
 | --- | --- |
 | **Lab** | **Food Microbiology (KFT 352)** |
-| **Experiment** | **2. Determination of Standard Plate Count (SPC) in natural and/or processed foods.**  **3. Simple and differential staining of microorganisms and their examination.** |
+| **Experiment** | **2. Determination of Standard Plate Count (SPC) in natural and/or processed foods.**  
 
 **About the Lab(objective):**
 
