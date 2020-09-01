@@ -41,10 +41,10 @@ Description: Step by step instructions are provided at each level in the simulat
 
 | **Sr.No** | **What Students will do?** | **What Simulator will do?** | **Purpose of the task** |
 | --- | --- | --- | --- |
-| 1. | The simulator gives a visual display of contaminated food, swab, inoculation needle, autoclave, Laminar air flow | Click on the &#39;simulation tab&#39; | Perform experiment |
-| 2. | To prepare media, glassware and media should be selected | Click to rehydrate media | To prepare media |
-| 3. | Place the media and glassware in autoclave for sterilization | Click on autoclave to open and set time temperature | To sterilize |
-| 4. | Remove after sterlization | Click on laminar air flow to transfer the sterilized glassware and media. Unwrap and pour media | To complete sterilization |
-| 5. | Take swab from contaminated samples | Click on contaminated samples to take a swab and place the swab in saline/petone water | To take microbial samples |
+| 1. | The simulator gives a visual display of glasswares, laminar air flow and auto clave | Click on the &#39;simulation tab&#39; | Perform experiment |
+| 2. | To wassh glassware, prepare media, | Click to rehydrate media | To prepare media |
+| 3. | Autoclaving | Click on the &#39;almunium foil and glassware/media to wrap | To cover and protect from contamination |
+| 4. | Place in autoclave at set time and temperature | Click on autoclave to open and set time temperature | To sterilize |
+| 5. | Remove after sterlization and start serial dilution | Click on laminar air flow to transfer the sterilized glassware and media.And pour media | To complete sterilization |
 | 6. | Pour plating/streak plating | Click on petriplates to streak or pour | For inculation of sample |
 | 7. | Incubate and interpret results | Click on incubator to incubate and set temp. And read results by counting colonies after set duration | To complete SPC |
