@@ -24,11 +24,9 @@ Contamination
 
 Method: Laboratory Experiment
 
-Assessment Method: Formative assessment
+Assessment Method: Submmative
 
-Description:
-
-The growth of microbial colonies on petri plates in the form of colonies will show the presence of contamination
+Description: Step by step instructions are provided at each level in the simulator to make it more user friendly.
 
 **4.Task &amp; Assessment Questions:**
 
