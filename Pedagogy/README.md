@@ -46,5 +46,5 @@ Description: Step by step instructions are provided at each level in the simulat
 | 3. | Autoclaving | Click on the &#39;almunium foil and glassware/media to wrap | To cover and protect from contamination |
 | 4. | Place in autoclave at set time and temperature | Click on autoclave to open and set time temperature | To sterilize |
 | 5. | Remove after sterlization and start serial dilution | Click on laminar air flow to transfer the sterilized glassware and media.And pour media | To complete sterilization |
-| 6. | Pour plating/streak plating | Click on petriplates to streak or pour | For inculation of sample |
+| 6. | Pour plating/streak plating | Click on petriplates to streak or pour | For inoculation of sample |
 | 7. | Incubate and interpret results | Click on incubator to incubate and set temp. And read results by counting colonies after set duration | To complete SPC |
