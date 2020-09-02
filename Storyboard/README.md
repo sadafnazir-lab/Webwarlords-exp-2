@@ -4,11 +4,11 @@ Experiment 2: **Determination of Standard Plate Count (SPC) in natural and/or pr
 
 **1.Story Outline:**
 
-The standard plate count (SPC) is an estimation of bacterial populations in most types of food products. It is a recommended application for detecting sources of contamination by testing line-samples taken at successive stages in the processing. The test employs taking samples from food products where contamination is to be detected. Samples are diluted in saline/peptone water. The dilutions are inoculated on media plates and ithe plates incubated. The colony that develops on the plate is presumed to have grown from one bacterium or clump of bacteria in the inoculums. The total number of colonies counted on the plates multiplied by the dilution factor represents the number of viable micro-organisms present in the sample tested.
+The standard plate count (SPC) is an estimation of bacterial populations in most types of food products. It is a recommended application for detecting sources of contamination by testing line-samples taken at successive stages in the processing. The test employs taking samples from food products where contamination is to be detected. Samples are diluted in saline/peptone water. 
 
 **2.Story:**
 
-The process involves preparing media. The media and glasswares are sterilized. The media transferred to laminar flow after sterilization and poured on plates. The plates are than inoculated with samples. The inoculated
+The process involves preparing media. The media and glasswares are sterilized. The media transferred to laminar flow after sterilization and poured on plates. The plates are than inoculated with samples. The dilutions are inoculated on media plates and ithe plates incubated. The colony that develops on the plate is presumed to have grown from one bacterium or clump of bacteria in the inoculums. The total number of colonies counted on the plates multiplied by the dilution factor represents the number of viable micro-organisms present in the sample tested.
 
 **2.1 Set the Visual Stage Description:**
 
