@@ -1,0 +1,47 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Determination of Standard Plate Count (SPC) in natural and/or processed foods.",     
+			"Lab": "Food Microbiology",               
+			"Discipline": "Food Technology",				 
+			"Technology": "Standard Plate Count"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Sadaf Nazir",         
+      "Institute": "I.E.T., Bundelkhand University, Jhansi",         
+      "InstituteAcronym": "IET"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Shivangi Agarwal",             
+      "Institute": "I.E.T., Bundelkhand University, Jhansi",         
+      "InstituteAcronym": "IET"   
+       },
+
+       {       
+			"Contributer": "Kunika Mahajan",              
+      "Institute": "I.E.T., Bundelkhand University, Jhansi",         
+      "InstituteAcronym": "IET"   
+       },
+       
+       {       
+			"Contributer": "Tanveer uddin",             
+     "Institute": "I.E.T., Bundelkhand University, Jhansi",         
+      "InstituteAcronym": "IET"   
+       },
+       
+       {       
+			"Contributer": "Yadvendra Pratap Singh",              
+      "Institute": "I.E.T., Bundelkhand University, Jhansi",         
+      "InstituteAcronym": "IET"   
+       },
+       
+   ]
+
+}
